@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.image-item {
+  height: 50px;
+  width: 50px;
+  margin-top: 15px;
+}
+.app-item {
+  background-color: #ffffff;
+  height: 110px;
+  width: 110px;
+  margin: 10px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-radius: 10px;
+}
+.app-name {
+  font-family: Bree Serifee;
+  color: #1e293b;
+  font-size: 15px;
+  font-weight: bold;
+}

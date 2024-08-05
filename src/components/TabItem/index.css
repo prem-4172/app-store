@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.heading {
+  font-size: 20px;
+  color: #7b8794;
+  font-family: Bree Serif;
+  margin-right: 10px;
+  border: transparent;
+  background-color: transparent;
+}
+.name {
+  color: #2563eb;
+  font-size: 25px;
+}
